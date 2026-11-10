@@ -6,6 +6,6 @@ property: value;
 h1 {
   font-family: Helvetica;
   color: red;
-  font-size: large;
+  font-size: 2em;
   font-weight: bold;
 }
